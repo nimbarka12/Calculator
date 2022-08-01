@@ -1,0 +1,6 @@
+We are creating a calculator that can handle several operations
+This calculator is programmed in such a a way that it is divided into 2 parts-Unit conversion calculator and mathematical calculator
+The mathematical calculator can handle operations like addition subtraction to operations like integration and differentiation
+The unit conversion calculator can handle basic operations like celsius to fahrenheit,Finding resistance etc.
+I got the inspiration to create calculator from physics lab.
+This calculator will prove to be useful to scientists so that they can save time doing many calculations
